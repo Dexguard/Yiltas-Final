@@ -1,6 +1,6 @@
 # yiltas
 
-> asd
+> Ödevin final sunumu için hazırlanmış halidir
 
 ## Build Setup
 
